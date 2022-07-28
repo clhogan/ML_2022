@@ -1,0 +1,49 @@
+OIL RELATED SERVICES & EQUIPMENT
+JANUARY 29, 20105:22 PMUPDATED 12 YEARS AGO
+Option players brace for volatility on Exxon results
+By Doris Frankel
+
+4 MIN READ
+
+
+*Exxon option projected volatility rises into earnings
+
+*Exxon shares briefly notch 10-month lows
+
+*Exxon breaks key support at $64.46 a share
+
+CHICAGO, Jan 29 (Reuters) - Option activity in Exxon Mobil Corp XOM.N picked up on Friday as investors brace for potential share price movement after the oil company reports quarterly results on Monday.
+
+Exxon Mobil shares briefly touched lows not hit since March 2009 after earnings from Chevron Corp CVX.N which missed Wall Street expectations. For details, please see [nN29120138].
+
+In the options market, about 90,000 calls changed hands in Exxon, double their average daily volume and more than three times the number of put options.
+
+“We are seeing signs from the options market that risk expectations for Exxon Mobil are relatively high ahead of next week’s earnings report,” said Ryan Renicker, equity derivatives strategist at Ticonderoga Securities, an institutional broker-dealer in New York.
+
+Option implied volatility, a key component of an options price, measures the expected magnitude of share price movement and often moves up ahead of an event such as earnings that could potentially jolt the stock.
+
+“The stock’s average implied volatility is up two percent to 25 percent as investors look for potential volatility around the earnings release,” said WhatsTrading.com option strategist Frederic Ruffy.
+
+Exxon’s at-the-money option implied volatility stood at 21 percent compared to historical volatility of 13.4 percent on the stock over the past 22 trading days, Renicker said.
+
+In a research note on Friday, Renicker recommended that investors should consider a covered call strategy to cushion their existing positions heading into the earnings report after Chevron reported a decline in quarterly profits.
+
+Chevron, the second-largest U.S. oil company, on Friday posted a 37 percent drop in quarterly profit as refining margins have suffered with pricier oil lifting costs even as the weak economy has shrunk fuel demand.
+
+“I believe these same factors could weigh on Exxon when the company reports next week,” Renicker said.
+
+Wall Street analysts expect Exxon Mobil to report a profit of $1.19 per share, according to Thomson Reuters I/B/E/S.
+
+Exxon shares fell 53 cents to $64.43 on the New York Stock Exchange.
+
+“Traders looking at technical levels would consider Exxon shares to be vulnerable if they break key support at $64.46 a level established on July 13, 2009,” Renicker said.
+
+Renicker suggests that investors hedge their long exposure to Exxon by selling near-term February $65 call strikes for a premium of about $1.08 in a so-called overwrite, a strategy that combines stock ownership and options trading.
+
+“These calls are trading relatively rich when compared to Exxon’s shares recent historical volatility,” he said.
+
+The strategy would allow investors a partial hedge against a downside move in Exxon shares while at the same time giving them upside exposure up to $66.08 -- the break-even point of the call trade as of Feb. 20 expiration.
+
+“There has been quite bit of sellers of the Feb $65 calls today,” said TD Ameritrade chief derivatives strategist Joe Kinahan.
+
+There are two reasons for it, he said. The earnings are next week and Exxon is due to go ex-dividend on Feb 8, “which if you are long the stock would be a nice addition to that return as well as premium received from the call sale.”
